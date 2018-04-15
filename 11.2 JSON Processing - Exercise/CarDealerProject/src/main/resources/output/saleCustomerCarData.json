@@ -1,0 +1,1000 @@
+[
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Dokker",
+      "distanceTravelled": 2147647
+    },
+    "customerName": "Daniele Zarate",
+    "price": 160.99,
+    "priceWithDiscount": 112.693
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C8",
+      "distanceTravelled": 92236854775807
+    },
+    "customerName": "Daniele Zarate",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "A 140",
+      "distanceTravelled": 92233754775807
+    },
+    "customerName": "Natalie Poli",
+    "price": 1200.99,
+    "priceWithDiscount": 840.693
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "GT-R",
+      "distanceTravelled": 2147447
+    },
+    "customerName": "Johnette Derryberry",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W210",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Taina Achenbach",
+    "price": 1003.34,
+    "priceWithDiscount": 501.670
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Tacoma",
+      "distanceTravelled": 21474647
+    },
+    "customerName": "Emmitt Benally",
+    "price": 100.99,
+    "priceWithDiscount": 70.693
+  },
+  {
+    "car": {
+      "make": "Seat",
+      "model": "Mii",
+      "distanceTravelled": 936854775807
+    },
+    "customerName": "Yvonne Mccalla",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W212",
+      "distanceTravelled": 927254775807
+    },
+    "customerName": "Rico Peer",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "GT-R",
+      "distanceTravelled": 96854775807
+    },
+    "customerName": "Garret Capron",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Renault",
+      "model": "Alaskan",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Lino Subia",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Alfa Romeo",
+      "model": "75",
+      "distanceTravelled": 9223372775807
+    },
+    "customerName": "Teddy Hobby",
+    "price": 100.00,
+    "priceWithDiscount": 80.000
+  },
+  {
+    "car": {
+      "make": "Skoda",
+      "model": "Fabia",
+      "distanceTravelled": 922337203775807
+    },
+    "customerName": "Rema Revelle",
+    "price": 100.98,
+    "priceWithDiscount": 50.490
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Vectra",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Cinthia Lasala",
+    "price": 100.99,
+    "priceWithDiscount": 80.792
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Camaro",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Donnetta Soliz",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C3",
+      "distanceTravelled": 214647
+    },
+    "customerName": "Faustina Burgher",
+    "price": 1050.99,
+    "priceWithDiscount": 735.693
+  },
+  {
+    "car": {
+      "make": "Seat",
+      "model": "Toledo",
+      "distanceTravelled": 2147447
+    },
+    "customerName": "Donnetta Soliz",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "model": "Taurus",
+      "distanceTravelled": 9223375807
+    },
+    "customerName": "Taina Achenbach",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "M6 E63",
+      "distanceTravelled": 92235807
+    },
+    "customerName": "Audrea Cardinal",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Omega",
+      "distanceTravelled": 1
+    },
+    "customerName": "Brett Brickley",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "GT-R",
+      "distanceTravelled": 23647
+    },
+    "customerName": "Donnetta Soliz",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W210",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Lino Subia",
+    "price": 1003.34,
+    "priceWithDiscount": 903.006
+  },
+  {
+    "car": {
+      "make": "Skoda",
+      "model": "Fabia",
+      "distanceTravelled": 92233720368807
+    },
+    "customerName": "Brett Brickley",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Great Wall",
+      "model": "Haval M4",
+      "distanceTravelled": 9223372035807
+    },
+    "customerName": "Faustina Burgher",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Rolls-Royce",
+      "model": "Wraith",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Marcelle Griego",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Seat",
+      "model": "Mii",
+      "distanceTravelled": 214783647
+    },
+    "customerName": "Hipolito Lamoreaux",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Fiat",
+      "model": "Panda 4x4 Antarctica",
+      "distanceTravelled": 2183647
+    },
+    "customerName": "Zada Attwood",
+    "price": 100.55,
+    "priceWithDiscount": 70.385
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "F20",
+      "distanceTravelled": 21447
+    },
+    "customerName": "Teddy Hobby",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "407",
+      "distanceTravelled": 854775807
+    },
+    "customerName": "Taina Achenbach",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "F20",
+      "distanceTravelled": 21447
+    },
+    "customerName": "Taina Achenbach",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Ferrari",
+      "model": "F40",
+      "distanceTravelled": 21447
+    },
+    "customerName": "Taina Achenbach",
+    "price": 2200.99,
+    "priceWithDiscount": 1870.8415
+  },
+  {
+    "car": {
+      "make": "Rolls-Royce",
+      "model": "Phantom",
+      "distanceTravelled": 922337254775807
+    },
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C3",
+      "distanceTravelled": 2147647
+    },
+    "customerName": "Faustina Burgher",
+    "price": 100.99,
+    "priceWithDiscount": 50.495
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "model": "Pinto",
+      "distanceTravelled": 214647
+    },
+    "customerName": "Donnetta Soliz",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Fiat",
+      "model": "Freemont",
+      "distanceTravelled": 21473647
+    },
+    "customerName": "Marcelle Griego",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "model": "Taurus",
+      "distanceTravelled": 21473647
+    },
+    "customerName": "Oren Perlman",
+    "price": 261.98,
+    "priceWithDiscount": 209.584
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Sandero",
+      "distanceTravelled": 922337254775807
+    },
+    "customerName": "Taina Achenbach",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C8",
+      "distanceTravelled": 2147447
+    },
+    "customerName": "Teddy Hobby",
+    "price": 144.98,
+    "priceWithDiscount": 86.988
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "GT-R",
+      "distanceTravelled": 23647
+    },
+    "customerName": "Jimmy Grossi",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W124",
+      "distanceTravelled": 922336854775807
+    },
+    "customerName": "Oren Perlman",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C8",
+      "distanceTravelled": 2147447
+    },
+    "customerName": "Teddy Hobby",
+    "price": 144.98,
+    "priceWithDiscount": 72.490
+  },
+  {
+    "car": {
+      "make": "Lamborghini",
+      "model": "Murciélago",
+      "distanceTravelled": 214783647
+    },
+    "customerName": "Oren Perlman",
+    "price": 140.99,
+    "priceWithDiscount": 112.792
+  },
+  {
+    "car": {
+      "make": "Rolls-Royce",
+      "model": "Phantom Drophead Coupé",
+      "distanceTravelled": 92233775807
+    },
+    "customerName": "Garret Capron",
+    "price": 130.99,
+    "priceWithDiscount": 117.891
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "206",
+      "distanceTravelled": 922036854775807
+    },
+    "customerName": "Hipolito Lamoreaux",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "X6 M",
+      "distanceTravelled": 483647
+    },
+    "customerName": "Sylvie Mcelravy",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Tacoma",
+      "distanceTravelled": 94775807
+    },
+    "customerName": "Oren Perlman",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Tacoma",
+      "distanceTravelled": 9225807
+    },
+    "customerName": "Teddy Hobby",
+    "price": 186.98,
+    "priceWithDiscount": 112.188
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Cruze",
+      "distanceTravelled": 9223372034775807
+    },
+    "customerName": "Rema Revelle",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Camaro",
+      "distanceTravelled": 92233854775807
+    },
+    "customerName": "Brett Brickley",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Fiat",
+      "model": "Panda 4x4 Antarctica",
+      "distanceTravelled": 21483647
+    },
+    "customerName": "Audrea Cardinal",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Logan",
+      "distanceTravelled": 922337203687
+    },
+    "customerName": "Teddy Hobby",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Fiat",
+      "model": "Panda",
+      "distanceTravelled": 92233854775807
+    },
+    "customerName": "Rema Revelle",
+    "price": 444.99,
+    "priceWithDiscount": 222.495
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "Versa",
+      "distanceTravelled": 922775807
+    },
+    "customerName": "Hai Everton",
+    "price": 7.99,
+    "priceWithDiscount": 4.794
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "model": "Fiesta",
+      "distanceTravelled": 2143647
+    },
+    "price": 540.99,
+    "priceWithDiscount": 324.594
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Sandero",
+      "distanceTravelled": 2147647
+    },
+    "customerName": "Faustina Burgher",
+    "price": 200.99,
+    "priceWithDiscount": 100.495
+  },
+  {
+    "car": {
+      "make": "Alfa Romeo",
+      "model": "75",
+      "distanceTravelled": 9775807
+    },
+    "customerName": "Jimmy Grossi",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Yaris",
+      "distanceTravelled": 9207
+    },
+    "customerName": "Sylvie Mcelravy",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "Versa",
+      "distanceTravelled": 922775807
+    },
+    "customerName": "Zada Attwood",
+    "price": 7.99,
+    "priceWithDiscount": 6.392
+  },
+  {
+    "car": {
+      "make": "Opel",
+      "model": "Insignia",
+      "distanceTravelled": 9223372036854775807
+    },
+    "customerName": "Jimmy Grossi",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Skoda",
+      "model": "Citigo",
+      "distanceTravelled": 214747
+    },
+    "customerName": "Jimmy Grossi",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W212",
+      "distanceTravelled": 927254775807
+    },
+    "customerName": "Donnetta Soliz",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "370Z",
+      "distanceTravelled": 922775807
+    },
+    "customerName": "Kristian Engberg",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "Berlingo",
+      "distanceTravelled": 9223354775807
+    },
+    "customerName": "Marcelle Griego",
+    "price": 130.99,
+    "priceWithDiscount": 104.792
+  },
+  {
+    "car": {
+      "make": "Seat",
+      "model": "Mii",
+      "distanceTravelled": 936854775807
+    },
+    "customerName": "Hai Everton",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Ferrari",
+      "model": "Daytona",
+      "distanceTravelled": 213647
+    },
+    "customerName": "Rico Peer",
+    "price": 300.29,
+    "priceWithDiscount": 150.145
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Prius",
+      "distanceTravelled": 21477
+    },
+    "customerName": "Faustina Burgher",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Cruze",
+      "distanceTravelled": 9223372034775807
+    },
+    "customerName": "Rico Peer",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "370Z",
+      "distanceTravelled": 21447
+    },
+    "customerName": "Carole Witman",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C3",
+      "distanceTravelled": 2147647
+    },
+    "customerName": "Sylvie Mcelravy",
+    "price": 100.99,
+    "priceWithDiscount": 70.693
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "206",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Faustina Burgher",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C1",
+      "distanceTravelled": 92236854775807
+    },
+    "customerName": "Hai Everton",
+    "price": 94.99,
+    "priceWithDiscount": 66.493
+  },
+  {
+    "car": {
+      "make": "Great Wall",
+      "model": "H2",
+      "distanceTravelled": 21647
+    },
+    "customerName": "Yvonne Mccalla",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C8",
+      "distanceTravelled": 2147447
+    },
+    "customerName": "Hipolito Lamoreaux",
+    "price": 144.98,
+    "priceWithDiscount": 115.984
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "model": "Fiesta",
+      "distanceTravelled": 922807
+    },
+    "customerName": "Yvonne Mccalla",
+    "price": 183.97,
+    "priceWithDiscount": 110.382
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Prius",
+      "distanceTravelled": 283647
+    },
+    "customerName": "Lino Subia",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "model": "GT40",
+      "distanceTravelled": 9223377
+    },
+    "customerName": "Hai Everton",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Skoda",
+      "model": "Citigo",
+      "distanceTravelled": 214747
+    },
+    "customerName": "Marcelle Griego",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "308",
+      "distanceTravelled": 775807
+    },
+    "customerName": "Marcelle Griego",
+    "price": 39.99,
+    "priceWithDiscount": 35.991
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Caprice",
+      "distanceTravelled": 2143647
+    },
+    "customerName": "Kristian Engberg",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Seat",
+      "model": "Ibiza",
+      "distanceTravelled": 21647
+    },
+    "customerName": "Marcelle Griego",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Prius",
+      "distanceTravelled": 283647
+    },
+    "customerName": "Francis Mckim",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C5",
+      "distanceTravelled": 2183647
+    },
+    "customerName": "Taina Achenbach",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Camaro",
+      "distanceTravelled": 92233854775807
+    },
+    "customerName": "Rico Peer",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "GT-R",
+      "distanceTravelled": 2147483647
+    },
+    "customerName": "Carole Witman",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Great Wall",
+      "model": "Wingle 5",
+      "distanceTravelled": 214747
+    },
+    "customerName": "Teddy Hobby",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Prius",
+      "distanceTravelled": 925807
+    },
+    "customerName": "Donnetta Soliz",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Cruze",
+      "distanceTravelled": 92775807
+    },
+    "customerName": "Garret Capron",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Fiat",
+      "model": "500 (2007) Abarth 695 Tributo Maserati",
+      "distanceTravelled": 214747
+    },
+    "customerName": "Natalie Poli",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Rolls-Royce",
+      "model": "Dawn",
+      "distanceTravelled": 214647
+    },
+    "customerName": "Yvonne Mccalla",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Peugeot",
+      "model": "405",
+      "distanceTravelled": 92236854775807
+    },
+    "customerName": "Sylvie Mcelravy",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  },
+  {
+    "car": {
+      "make": "Mercedes",
+      "model": "W203",
+      "distanceTravelled": 5807
+    },
+    "customerName": "Nisha Markwell",
+    "price": 40.90,
+    "priceWithDiscount": 28.630
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "GT-R",
+      "distanceTravelled": 2143647
+    },
+    "customerName": "Rema Revelle",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Ferrari",
+      "model": "250 GTO",
+      "distanceTravelled": 213647
+    },
+    "customerName": "Hipolito Lamoreaux",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Fiat",
+      "model": "Freemont",
+      "distanceTravelled": 214647
+    },
+    "customerName": "Natalie Poli",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Renault",
+      "model": "Alaskan",
+      "distanceTravelled": 92233720375807
+    },
+    "customerName": "Rema Revelle",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Renault",
+      "model": "Captur",
+      "distanceTravelled": 9223807
+    },
+    "customerName": "Garret Capron",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "BMW",
+      "model": "F04",
+      "distanceTravelled": 100000
+    },
+    "customerName": "Kristian Engberg",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Sandero",
+      "distanceTravelled": 2147647
+    },
+    "customerName": "Audrea Cardinal",
+    "price": 200.99,
+    "priceWithDiscount": 100.495
+  },
+  {
+    "car": {
+      "make": "Chevy",
+      "model": "Matiz",
+      "distanceTravelled": 922337203685807
+    },
+    "customerName": "Kristian Engberg",
+    "price": 0,
+    "priceWithDiscount": 0.0
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C3",
+      "distanceTravelled": 214647
+    },
+    "customerName": "Francis Mckim",
+    "price": 1050.99,
+    "priceWithDiscount": 893.3415
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "model": "Pinto",
+      "distanceTravelled": 214647
+    },
+    "customerName": "Teddy Hobby",
+    "price": 0,
+    "priceWithDiscount": 0.00
+  }
+]

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <name>Allopurinol</name>
+        <price>518.5000</price>
+        <seller>Benjamin Henry</seller>
+    </product>
+    <product>
+        <name>Parsley</name>
+        <price>519.0600</price>
+        <seller> Cunningham</seller>
+    </product>
+    <product>
+        <name>equaline</name>
+        <price>520.4500</price>
+        <seller>Diana Harvey</seller>
+    </product>
+    <product>
+        <name>Extra Strength Pain Reliever PM</name>
+        <price>542.7200</price>
+        <seller>Brenda Howell</seller>
+    </product>
+    <product>
+        <name>PLANTAGO LANCEOLATA POLLEN</name>
+        <price>561.6800</price>
+        <seller>Bonnie Fox</seller>
+    </product>
+    <product>
+        <name>Agaricus Equisetum Special Order</name>
+        <price>585.9300</price>
+        <seller>Benjamin Henry</seller>
+    </product>
+    <product>
+        <name>Gemcitabine</name>
+        <price>594.7900</price>
+        <seller>Fred Barnes</seller>
+    </product>
+    <product>
+        <name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</name>
+        <price>616.1900</price>
+        <seller>Wanda Harris</seller>
+    </product>
+    <product>
+        <name>AMARANTHUS PALMERI POLLEN</name>
+        <price>623.1600</price>
+        <seller> Stewart</seller>
+    </product>
+    <product>
+        <name>AVANDAMET</name>
+        <price>632.0800</price>
+        <seller>Clarence Fowler</seller>
+    </product>
+    <product>
+        <name>Ampicillin</name>
+        <price>674.6300</price>
+        <seller>Nicole Harris</seller>
+    </product>
+    <product>
+        <name>CLARINS Ever Matte SPF 15 - 105 Nude</name>
+        <price>696.0600</price>
+        <seller>Joshua Murray</seller>
+    </product>
+    <product>
+        <name>CALMING DIAPER RASH</name>
+        <price>700.9200</price>
+        <seller>Jonathan Rodriguez</seller>
+    </product>
+    <product>
+        <name>Aquafresh</name>
+        <price>849.9300</price>
+        <seller>Carl Daniels</seller>
+    </product>
+    <product>
+        <name>RESCRIPTOR</name>
+        <price>850.5200</price>
+        <seller>Brenda Howell</seller>
+    </product>
+    <product>
+        <name>Levothyroxine Sodium</name>
+        <price>885.8600</price>
+        <seller>Wanda Harris</seller>
+    </product>
+    <product>
+        <name>Myristica Argentum Sinus Relief</name>
+        <price>904.5200</price>
+        <seller>Chris Mitchell</seller>
+    </product>
+    <product>
+        <name>Metformin Hydrochloride</name>
+        <price>953.9900</price>
+        <seller>Patricia Cooper</seller>
+    </product>
+    <product>
+        <name>Dawn Ultra Antibacterial Hand</name>
+        <price>969.8600</price>
+        <seller> Schmidt</seller>
+    </product>
+</products>
