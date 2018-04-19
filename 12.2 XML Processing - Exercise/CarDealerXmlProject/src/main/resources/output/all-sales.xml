@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sales>
+    <sale>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Pinto"/>
+        <customer-name>Brett Brickley</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Natalie Poli</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Zada Attwood</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Emmitt Benally</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Zada Attwood</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Oren Perlman</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Nisha Markwell</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Zada Attwood</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Johnette Derryberry</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Emmitt Benally</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Fiesta"/>
+        <customer-name>Lino Subia</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Pinto"/>
+        <customer-name>Zada Attwood</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Lino Subia</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Audrea Cardinal</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Garret Capron</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="500 (2007) Abarth 695 Tributo Maserati"/>
+        <customer-name>Teddy Hobby</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="W124"/>
+        <customer-name>Rico Peer</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Nisha Markwell</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Yvonne Mccalla</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Zada Attwood</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Rico Peer</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Lino Subia</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Carri Knapik</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Emmitt Benally</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Rico Peer</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="GT40"/>
+        <customer-name>Taina Achenbach</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Yvonne Mccalla</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Rico Peer</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Francis Mckim</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Camry Hybrid"/>
+        <customer-name>Natalie Poli</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Garret Capron</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="BMW" model="M6 E63"/>
+        <customer-name>Francis Mckim</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Corsa"/>
+        <customer-name>Garret Capron</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Jimmy Grossi</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Taurus"/>
+        <customer-name>Emmitt Benally</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Donnetta Soliz</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="W124"/>
+        <customer-name>Hai Everton</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="500L"/>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Zada Attwood</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Kristian Engberg</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Nisha Markwell</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="BMW" model="M5 F10"/>
+        <customer-name>Carole Witman</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Jimmy Grossi</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="BMW" model="E88"/>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Johnette Derryberry</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Teddy Hobby</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Taina Achenbach</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Brett Brickley</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Torino"/>
+        <customer-name>Emmitt Benally</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Nisha Markwell</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Johnette Derryberry</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="Panda 4x4"/>
+        <customer-name>Brett Brickley</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Insignia"/>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Natalie Poli</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="BMW" model="E88"/>
+        <customer-name>Carole Witman</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Corolla"/>
+        <customer-name>Emmitt Benally</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Audrea Cardinal</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="W202"/>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Jimmy Grossi</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Yvonne Mccalla</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Francis Mckim</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Yvonne Mccalla</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="Freemont"/>
+        <customer-name>Francis Mckim</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Francis Mckim</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <car make="BMW" model="E67"/>
+        <customer-name>Yvonne Mccalla</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Corsa"/>
+        <customer-name>Donnetta Soliz</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Pinto"/>
+        <customer-name>Zada Attwood</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Johnette Derryberry</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Prius"/>
+        <customer-name>Oren Perlman</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Cinthia Lasala</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Johnette Derryberry</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Pinto"/>
+        <customer-name>Donnetta Soliz</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Oren Perlman</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Omega"/>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Nisha Markwell</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Prius"/>
+        <customer-name>Rico Peer</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="W212"/>
+        <customer-name>Donnetta Soliz</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Francis Mckim</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="Freemont"/>
+        <customer-name>Marcelle Griego</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Cinthia Lasala</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="A 160"/>
+        <customer-name>Johnette Derryberry</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Omega"/>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="500L"/>
+        <customer-name>Carri Knapik</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Yaris"/>
+        <customer-name>Lino Subia</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Carole Witman</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Corolla"/>
+        <customer-name>Emmitt Benally</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Daniele Zarate</customer-name>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+    <sale>
+        <customer-name>Garret Capron</customer-name>
+        <price>0</price>
+        <price-with-discount>0.00</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Prius"/>
+        <price>0</price>
+        <price-with-discount>0.0</price-with-discount>
+    </sale>
+</sales>
