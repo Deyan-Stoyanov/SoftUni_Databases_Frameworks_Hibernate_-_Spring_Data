@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vets>
+    <vet>
+        <vet>Michael Jordan</vet>
+        <profession>Emergency and Critical Care</profession>
+        <age>45</age>
+        <phone-number>0897665544</phone-number>
+    </vet>
+    <vet>
+        <vet>Melanie Bennington</vet>
+        <profession>Surgery</profession>
+        <age>21</age>
+        <phone-number>+359284566778</phone-number>
+    </vet>
+    <vet>
+        <vet>Edmond Halley</vet>
+        <profession>Veterinary Nursing</profession>
+        <age>24</age>
+        <phone-number>+359284566778</phone-number>
+    </vet>
+    <vet>
+        <vet>Niels Bohr</vet>
+        <profession>Internal Medicine</profession>
+        <age>32</age>
+        <phone-number>0879557712</phone-number>
+    </vet>
+    <vet>
+        <vet>Werner Heisenberg</vet>
+        <profession>Pediatrics, Genetics and Reproduction</profession>
+        <age>55</age>
+        <phone-number>0879535712</phone-number>
+    </vet>
+    <vet>
+        <vet>Marc ExistingPhoneNumber</vet>
+        <profession>Primary Care</profession>
+        <phone-number>0879557712</phone-number>
+        <age>43</age>
+    </vet>
+    <vet>
+        <vet>Jennifer Evans</vet>
+        <profession>Internal Medicine</profession>
+        <age>67</age>
+        <phone-number>0879539002</phone-number>
+    </vet>
+    <vet>
+        <vet>Jennifer Evans</vet>
+        <profession>Primary Care</profession>
+        <age>43</age>
+        <phone-number>0873935712</phone-number>
+    </vet>
+    <vet>
+        <vet>Jennifer WithoutPhoneNumber</vet>
+        <profession>Primary Care</profession>
+        <age>43</age>
+    </vet>
+    <vet>
+        <vet>Bellamy TooYoung</vet>
+        <profession>Primary Care</profession>
+        <age>17</age>
+        <phone-number>0879557712</phone-number>
+    </vet>
+</vets>
